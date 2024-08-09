@@ -1,0 +1,24 @@
+{
+  "originHash" : "34d0a371b9b77d9bf5d927bae3395bcf7a093cb71b84f3de69d65f0919d74487",
+  "pins" : [
+    {
+      "identity" : "library1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zunda-pixel/Library1",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ffbaf714423d4801bcdee43f796216a0903c417d"
+      }
+    },
+    {
+      "identity" : "library2",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zunda-pixel/Library2",
+      "state" : {
+        "branch" : "main",
+        "revision" : "07dd74fcf412c93ad0df15645f7a4a5bf8cebc78"
+      }
+    }
+  ],
+  "version" : 3
+}
